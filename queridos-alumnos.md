@@ -13,3 +13,4 @@
 * Oussama - [Usama2004](https://github.com/Usama2004)
 * David - [daviiidleon](https://github.com/daviiidleon)
 * Antonio - [Antonioquiros](https://github.com/Antonioquiros)
+* isaac - [isaac-rub](https://github.com/isaac-rub)
