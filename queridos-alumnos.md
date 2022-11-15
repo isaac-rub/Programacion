@@ -17,3 +17,4 @@
 * Luis - [luislopez229](https://github.com/luislopez229)
 * Álvaro - [ajimz12](https://github.com/ajimz12)
 * Emilio - [EMILIOJFDEZ](https://github.com/EMILIOJFDEZ)
+* isaac-[isaac-rub] (https://github.com/isaac-rub) 
